@@ -1,0 +1,21 @@
+---
+:chosen_word:
+- s
+- t
+- o
+- "n"
+- e
+- s
+:hidden_word:
+- s
+- _
+- o
+- _
+- e
+- s
+:wrong_guesses:
+- a
+- i
+- c
+- h
+:number_of_attempts: 4
